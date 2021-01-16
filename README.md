@@ -45,5 +45,5 @@ My goal is to build a Linear Regression modell to predict the Final Grade (G3).
 - G2 - second period grade (numeric: from 0 to 20)
 - G3 - final grade (numeric: from 0 to 20, output target)
 
-## NOTE: In case the Notebook (.ipynb) File is not displayed or loaded properly:
+### NOTE: In case the Notebook (.ipynb) File is not displayed or loaded properly:
 https://nbviewer.jupyter.org/github/KevinVogel05/Student-Performance/blob/master/Student%20Perfomance.ipynb
